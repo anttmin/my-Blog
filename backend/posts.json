@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id" : "1",
+      "title": "Our First Event",
+      "image": "https://assets.entrepreneur.com/content/3x2/2000/1649279368-Ent-2022Python.jpeg",
+      "date": "2022-10-01",
+      "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit, porta varius proin libero platea praesent semper, lacus odio conubia tempus vehicula nec. Ante sociis vestibulum quam sed sem praesent habitant laoreet a, enim lectus mi interdum purus elementum hendrerit phasellus nisi, nibh dapibus dui curae porttitor tellus magnis tempor. Enim donec porttitor feugiat fames nec, eros himenaeos turpis vehicula id, mauris etiam suspendisse ultricies.Hac sagittis lobortis fringilla nisi commodo nisl cubilia molestie, venenatis conubia turpis quis at et habitant posuere, pretium per ut augue malesuada interdum torquent. Suspendisse augue duis aliquet pretium fringilla venenatis nisl mollis turpis platea cursus, accumsan habitasse facilisi nisi parturient mus cubilia senectus suscipit nunc. Erat velit nullam rhoncus malesuada platea urna, convallis integer euismod nascetur molestie sapien, blandit bibendum interdum cum scelerisque."
+      
+    }
+    ,
+
+    {
+      "id" : "2",
+      "title": "Chat Gpt Get Banned",
+      "image": "https://builtin.com/cdn-cgi/image/f=auto,quality=80,width=752,height=435/https://builtin.com/sites/www.builtin.com/files/styles/byline_image/public/2023-02/chatgtp-artificial-intelligence-what-is-chatgpt_0.png",
+      "date": "2022-10-01",
+      "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit, porta varius proin libero platea praesent semper, lacus odio conubia tempus vehicula nec. Ante sociis vestibulum quam sed sem praesent habitant laoreet a, enim lectus mi interdum purus elementum hendrerit phasellus nisi, nibh dapibus dui curae porttitor tellus magnis tempor. Enim donec porttitor feugiat fames nec, eros himenaeos turpis vehicula id, mauris etiam suspendisse ultricies.Hac sagittis lobortis fringilla nisi commodo nisl cubilia molestie, venenatis conubia turpis quis at et habitant posuere, pretium per ut augue malesuada interdum torquent. Suspendisse augue duis aliquet pretium fringilla venenatis nisl mollis turpis platea cursus, accumsan habitasse facilisi nisi parturient mus cubilia senectus suscipit nunc. Erat velit nullam rhoncus malesuada platea urna, convallis integer euismod nascetur molestie sapien, blandit bibendum interdum cum scelerisque."
+      
+    }
+
+  ],
+  "users": []
+}
