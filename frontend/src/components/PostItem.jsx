@@ -1,22 +1,30 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
+import React from "react";
+import { Link } from "react-router-dom";
+// import { BeakerIcon } from '@heroicons/react/24/solid'
 
-const PostItem = ({post}) => {
-  const {title,id,date,image} = post
+const Postitem = ({ post }) => {
+  const { id, title, date, image } = post;
+  // console.log(post);
   return (
-     <div className='section2'>
-        <Link to={`/post-details/${id}`}>
-        <img className='image' src={image} alt={title}/>
-        </Link>
-
-        <Link to={`/post-details/${id}`}>
-        <p className='title'>{title}</p>
-        </Link>
-        
-        <p className='date'>Post at - {date}</p>
+    <>
+      <div className="BlogPost">
+        <Link to={`/create-detail/${id}`}><img src={image} alt="img" className="img" /></Link>
+      </div>
+      <div className="data">
+        <Link to={`/create-detail/${id}`}><p>{title}</p></Link>
+        <Link to={`/create-detail/${id}`}><span>{date}</span></Link>
         <hr />
-     </div>
-  )
-}
+      </div>
+    </>
+  );
+};
 
-export default PostItem
+export default Postitem;
+
+
+
+
+
+// 30: 
+
+
